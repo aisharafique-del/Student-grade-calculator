@@ -1,0 +1,10 @@
+Name: ayesha
+Total: 236
+Average: 78.6667
+Grade: B
+------------------------
+Name: fizzza
+Total: 267
+Average: 66.75
+Grade: C
+---------------------
